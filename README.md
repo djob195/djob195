@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19856
-Fork on GitHub5981
 <h1 align="center">Hi 👋, I'm Diego Orellana</h1>
 <h3 align="center">I am a developer passionate about learning about new technologies in the market and implementing them in solutions. I also like to learn from different businesses, support them, and create excellent quality projects, both on the business and technology sides. On the other hand, I have had the experience of leading technology groups, and solving problems with the help of work methodologies, such as SCRUM and Design Thinking. It is worth mentioning that my greatest strength is the Backend side, but I have also participated in Frontend development and regression testing</h3>
 
@@ -26,28 +22,3 @@ Fork on GitHub5981
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djob195&show_icons=true&locale=en" alt="djob195" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djob195&" alt="djob195" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
