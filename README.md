@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **Architecture, analysis Problem, Testings, Backend**
 
-- 📫 How to reach me **djorellanab@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
